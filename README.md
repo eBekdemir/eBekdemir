@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Enes!
+## 👋 Hello, I'm Enes! ![](https://komarev.com/ghpvc/?username=eBekdemir&color=brightgreen&style=for-the-badge&style=pixel&abbreviated=true) 
 🚀 Data Scientist Candidate 
 I am a passionate developer with a strong interest in data science and finance. I am a first-year Management Information Systems student at Marmara University (3.93 GPA)
 
