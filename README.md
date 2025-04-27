@@ -8,7 +8,7 @@ I am a passionate developer with a strong interest in data science and finance. 
 - **Languages**:
   - Python 🐍, SQL, C#, JavaScript (still improving)
 - **Frameworks & Libraries**:
-  - FastAPI, Django, Pandas, NumPy, pygame, React (still improving)
+  - FastAPI, Django, Pandas, NumPy, pygame, Telegram Bots, React (still improving)
 - **Database**:
   - PostgreSQL, MySQL, SQLite
 - **Other Tools**:
