@@ -1,12 +1,12 @@
 ## 👋 Hello, I'm Enes! ![](https://komarev.com/ghpvc/?username=eBekdemir&color=brightgreen&style=for-the-badge&style=pixel&abbreviated=true) 
 🚀 Data Scientist Candidate 
-I am a passionate developer with a strong interest in data science and finance. I am a first-year Management Information Systems student at Marmara University (3.93 GPA)
+I am a passionate developer with a strong interest in data science and finance. I am a first-year Management Information Systems student at Boğaziçi University.
 
 ---
 
 ### 🛠 Tech Stack
 - **Languages**:
-  - Python 🐍, SQL, C#, JavaScript (still improving)
+  - Python 🐍, SQL, C#, JavaScript (still improving), C++
 - **Frameworks & Libraries**:
   - FastAPI, Django, Pandas, NumPy, pygame, Telegram Bots, React (still improving)
 - **Database**:
@@ -20,9 +20,9 @@ I am a passionate developer with a strong interest in data science and finance. 
 - 🔢 Mathematics & Statistics
 - 📈 Financial Data Analysis & Trading Algorithms & Quantitative Analysis
 - 💲 Cryptocurrencies & Turkish Stock Market (BIST) & Finance & Economics
-- 🌌 Astronomy & Space Exploration
+- 🌌 Astronomy & Space Exploration & Rocketry
 - ⚔️ Philosophy & Politics & History & Strategic Thinking
-<!-- - 🧠 AI & Deep Learning & Neural Networks -->
+- 🧠 AI & Deep Learning & Machine Learning 
 ---
 
 ### 📫 How to Reach Me
